@@ -2,8 +2,8 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "App",
-  description: "Built by Constructor",
+  title: "Temporizador Cocina",
+  description: "Aplicacion web para cronometrar tiempos de cocina con controles de inicio, pausa y reinicio",
 };
 
 export default function RootLayout({

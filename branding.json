@@ -1,0 +1,13 @@
+{
+  "primaryColor": "#FFFFFF",
+  "secondaryColor": "#F5F5F5",
+  "backgroundColor": "#FFFFFF",
+  "textColor": "#1A1A1A",
+  "accentColor": "#007AFF",
+  "fontHeading": "System UI sans-serif",
+  "fontBody": "Monaco",
+  "borderRadius": "0.25rem",
+  "logoText": "Temporizador Cocina",
+  "logoImageUrl": "https://vabacntbfcwhgkjqajcw.supabase.co/storage/v1/object/public/screenshots/projects/P-8E9U88/logo.png",
+  "tone": "minimal"
+}
